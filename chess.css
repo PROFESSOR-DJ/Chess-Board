@@ -27,7 +27,7 @@ td:hover{
 
 .black{
     border: 1px solid black;
-    background-image: url(/HICET/dark.jpeg);
+    background-image: url("/dark.jpeg");
 }
 
 p{
@@ -40,7 +40,7 @@ p{
 }
 
 body{
-    background-image: url("/HICET/white.jpeg");
+    background-image: url("/white.jpeg");
     background-repeat: repeat;
     /* background-size:cover; */
 }
